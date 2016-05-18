@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Superwechat\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "D:\\Superwechat\\superwechat\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "D:\\Superwechat\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "D:\\Superwechat\\superwechat\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspaces\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\delete_message.xml",
+        "source": "D:\\AndroidWorkspaces\\superwechat\\res\\menu\\delete_message.xml"
+    },
+    {
+        "merged": "D:\\Superwechat\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "D:\\Superwechat\\superwechat\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\Superwechat\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "D:\\Superwechat\\superwechat\\res\\menu\\remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspaces\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\context_tab_contact.xml",
+        "source": "D:\\AndroidWorkspaces\\superwechat\\res\\menu\\context_tab_contact.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspaces\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\remove_from_blacklist.xml",
+        "source": "D:\\AndroidWorkspaces\\superwechat\\res\\menu\\remove_from_blacklist.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspaces\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\context_contact_list.xml",
+        "source": "D:\\AndroidWorkspaces\\superwechat\\res\\menu\\context_contact_list.xml"
+    },
+    {
+        "merged": "D:\\Superwechat\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "D:\\Superwechat\\superwechat\\res\\menu\\delete_contact.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkspaces\\superwechat\\build\\intermediates\\res\\merged\\debug\\menu\\delete_contact.xml",
+        "source": "D:\\AndroidWorkspaces\\superwechat\\res\\menu\\delete_contact.xml"
+    }
+]
